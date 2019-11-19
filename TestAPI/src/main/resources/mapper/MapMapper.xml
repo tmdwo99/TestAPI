@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="org.dsu.dc.capston.mapper.MapMapper">
+
+	<select id="getList" resultType="org.dsu.dc.capston.domain.MapVO">
+		select * from TestDB
+	</select>
+	
+	<select id="getApi" resultType="org.dsu.dc.capston.domain.MapVO">
+		select * from api_table
+	</select>
+	
+	<insert id="setApi">
+		insert into api_table (name, pm10value)
+		values (#{name}, #{pm10value})
+	</insert>
+	
+</mapper>

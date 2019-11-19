@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html	xmlns:th="http://www.thymeleaf.org"
+		xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+	<head>
+		<meta charset="UTF-8">
+		<title>Form 사용하기</title>
+	</head>
+	<body>
+		<h1> Hello Thymeleaf</h1>
+		<p th:text="${msg}">wait.</p>
+		<br/>
+		<form method="POST"	action="/login">
+			<input type="text"	name="id1" th:value="${id2}">
+			<input type="submit" value="Click">
+		</form>
+	</body>
+</html>

@@ -1,0 +1,14 @@
+package org.dsu.dc.capston.domain;
+
+import org.springframework.context.annotation.Bean;
+
+import lombok.Data;
+import lombok.ToString;
+
+@Data
+@ToString
+@Bean
+public class ApiVO {
+	private String name;
+	private String pm10Value;
+}

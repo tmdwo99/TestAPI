@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;main.java&apos; to &apos;TestDB/src/org.dsu.dc.capston&apos;&#x0A;- Original project: &apos;TestDB&apos;&#x0A;- Destination element: &apos;TestDB/src/org.dsu.dc.capston&apos;&#x0A;- Original element: &apos;main.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;org.dsu.dc.capston" element1="/src&lt;{main.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1570608403115" units="1" version="1.0"/>
+</session>

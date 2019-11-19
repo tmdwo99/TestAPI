@@ -1,0 +1,102 @@
+package org.dsu.dc.capston.controller;
+
+import java.io.BufferedInputStream;
+import java.net.URL;
+import java.util.ArrayList;
+
+import org.dsu.dc.capston.domain.ApiVO;
+import org.dsu.dc.capston.service.MapService;
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import lombok.extern.slf4j.Slf4j;
+
+@Controller
+@Slf4j
+@RequestMapping("/map/*")
+public class MapController {
+	@Autowired
+	private MapService service;
+	private ArrayList<ApiVO> list = new ArrayList<ApiVO>();
+	private ArrayList<String> namelist = new ArrayList<String>();
+	private ArrayList<String> pmlist = new ArrayList<String>();
+	private ApiVO data = new ApiVO();
+	
+	@GetMapping("list")
+	public void listAll(Model model) throws Exception{
+		log.info("[Map] show all list..................");
+		model.addAttribute("list",service.listAll());
+	}
+	
+	@GetMapping("Map")
+	public void viewMap(Model model) throws Exception {
+		
+		getApi("%ec%a0%84%eb%82%a8");
+		getApi("%ea%b4%91%ec%a3%bc");
+		
+		model.addAttribute("station",namelist);
+		model.addAttribute("pm",pmlist);
+		model.addAttribute("list",service.listAll());
+		
+	}
+	    
+    public void getApi(String name) throws Exception{
+        JSONParser jsonParser = new JSONParser();
+        JSONObject jsonObject = (JSONObject)jsonParser.parse(readUrl(name));
+        JSONArray array = (JSONArray)jsonObject.get("list");
+
+        for(int i=0;i<array.size();i++) {
+        	JSONObject row = (JSONObject)array.get(i);
+            String staname = (String)row.get("stationName");
+            String pm = (String)row.get("pm10Value");
+            
+            data.setName(staname);
+            data.setPm10Value(pm);
+            
+            list.add(data);
+            
+            System.out.println("data name : "+staname);
+            System.out.println("data pm : "+pm);
+            System.out.println("---------------");
+        }
+
+    }
+    
+    private String readUrl(String name) throws Exception{
+        BufferedInputStream reader = null;
+        
+        try {
+            URL url = new URL("http://openapi.airkorea.or.kr/openapi/services/rest/ArpltnInforInqireSvc/getCtprvnRltmMesureDnsty?ServiceKey=3iRMYhnC0gpmlbqMVLagOwONCTDJ16M07lqat19aiJHKdPYEniDuT%2FoEVv0im4vK6HtVccA7sc7sz2bNrnfTYQ%3D%3D&"
+            		+ "sidoName=%ec%a0%84%eb%82%a8"+"&_returnType=json");
+            
+            reader = new BufferedInputStream(url.openStream());
+            StringBuffer buffer = new StringBuffer();
+            int i = 0;
+            byte[] b = new byte[4096];
+            while((i = reader.read(b)) != -1){
+                buffer.append(new String(b, 0, i));
+            }
+            return buffer.toString();
+            
+        } finally{
+            if(reader != null) reader.close();
+            
+        }
+        
+    }
+
+	
+}
+
+
+	
+
+
+	
+

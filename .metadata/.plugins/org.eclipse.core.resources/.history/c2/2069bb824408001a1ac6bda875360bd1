@@ -1,0 +1,60 @@
+package org.dsu.dc.capston.api;
+
+import java.io.BufferedInputStream;
+import java.net.URL;
+
+import org.dsu.dc.capston.service.MapService;
+import org.dsu.dc.capston.service.MapServiceImpl;
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
+import org.springframework.beans.factory.annotation.Autowired;
+
+public class GetApi {
+	static String key = "3iRMYhnC0gpmlbqMVLagOwONCTDJ16M07lqat19aiJHKdPYEniDuT%2FoEVv0im4vK6HtVccA7sc7sz2bNrnfTYQ%3D%3D";
+	@Autowired
+	private MapServiceImpl service;
+	
+    public GetApi() throws Exception{
+    	System.out.println(getName());
+    	
+        JSONParser jsonParser = new JSONParser();
+        JSONObject jsonObject = (JSONObject)jsonParser.parse(readUrl(""));
+        JSONArray array = (JSONArray)jsonObject.get("list");
+        
+        JSONObject row = (JSONObject)array.get(0);
+        String school = (String)row.get("khaiValue");
+        
+    }
+    
+    public String getName() throws Exception {
+    	service = new MapServiceImpl();
+    	return "";
+    }
+    
+    private static String readUrl(String name) throws Exception{
+        BufferedInputStream reader = null;
+        String stationName = name;
+        
+        try {
+            URL url = new URL("http://openapi.airkorea.or.kr/openapi/services/rest/ArpltnInforInqireSvc/getMsrstnAcctoRltmMesureDnsty?ServiceKey="+
+                         key+"&stationName="+"%eb%b9%9b%ea%b0%80%eb%9e%8c%eb%8f%99"+"&dataTerm=month&_returnType=json&ver=1.0");
+            
+            reader = new BufferedInputStream(url.openStream());
+            StringBuffer buffer = new StringBuffer();
+            int i = 0;
+            byte[] b = new byte[4096];
+            while((i = reader.read(b)) != -1){
+                buffer.append(new String(b, 0, i));
+            }
+            return buffer.toString();
+            
+        } finally{
+            if(reader != null) reader.close();
+            
+        }
+        
+    }
+
+
+}

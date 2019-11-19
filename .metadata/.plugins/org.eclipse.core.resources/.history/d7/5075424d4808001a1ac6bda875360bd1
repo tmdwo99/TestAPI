@@ -1,0 +1,5 @@
+package org.dsu.dc.capston.domain;
+
+public class ApiVO {
+
+}

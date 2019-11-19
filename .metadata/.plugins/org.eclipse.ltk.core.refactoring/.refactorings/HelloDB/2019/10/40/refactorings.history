@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;HelloDB/src/main/resources/templates/dvResult.html&apos; to &apos;dbResult.html&apos;" description="Rename resource &apos;dvResult.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/templates/dvResult.html" name="dbResult.html" stamp="1569913918555" updateReferences="true"/>
+</session>

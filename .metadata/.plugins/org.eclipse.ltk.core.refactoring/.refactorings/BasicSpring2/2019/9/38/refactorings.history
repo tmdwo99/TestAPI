@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;BasicSpring2/src/main/resources/templates/doB.html&apos; to &apos;result.html&apos;" description="Rename resource &apos;doB.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/templates/doB.html" name="result.html" stamp="1568611342894" updateReferences="true"/>
+</session>

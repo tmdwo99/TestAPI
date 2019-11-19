@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+	<head>
+		<meta charset="UTF-8">
+		<title>Hello Student DB</title>
+	</head>
+	<body>
+		<h1>Searching Result</h1>
+		<p class="msg" th:text="${msg}"></p>
+		<table border="1">
+			<tr> <td> 학번 </td> <td> 이름 </td> <td> 학과 </td> <td> 학 </td> </tr>
+			<tr th:each="std:${list}">
+				<td th:text="${std.name}"></td>
+				<td th:text="${std.addr}"></td>
+				<td th:text="${std.dmX}"></td>
+				<td th:text="${std.dmX}"></td>
+			</tr>
+		</table>
+	</body>
+</html>

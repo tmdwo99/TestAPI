@@ -1,0 +1,1102 @@
+!SESSION 2019-11-16 16:04:49.710 -----------------------------------------------
+eclipse.buildId=4.3.2.201908130627-RELEASE
+java.version=12.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/3hagnyeon/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/3hagnyeon/.eclipse_keyring
+
+This is a continuation of log file /Users/3hagnyeon/Documents/workspace-spring-tool-suite-4-4.3.2.RELEASE/.metadata/.bak_0.log
+Created Time: 2019-11-16 18:33:13.546
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 18:33:13.555
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 18:33:38.112
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 18:34:39.743
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 18:34:51.399
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 18:34:54.153
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 18:35:16.952
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 18:38:12.406
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 18:38:58.165
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 18:40:17.184
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 18:43:20.772
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 18:43:57.017
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 18:44:23.766
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 18:44:42.616
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 18:45:04.261
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 18:47:28.524
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 18:47:55.132
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 18:49:19.571
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 18:49:40.482
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 18:50:30.234
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 18:51:25.938
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 18:51:52.980
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 19:07:10.153
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 19:11:47.960
+!MESSAGE Preparing classpath changed notification MyBoard2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 19:11:47.960
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 19:11:47.969
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 19:11:47.970
+!MESSAGE buffering callback sts4.classpath.hfPWNoQq MyBoard2 false 82
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 19:11:47.970
+!MESSAGE executing callback sts4.classpath.hfPWNoQq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 19:11:47.990
+!MESSAGE executing callback sts4.classpath.hfPWNoQq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 19:12:41.135
+!MESSAGE Preparing classpath changed notification MyBoard2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 19:12:41.136
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 19:12:41.136
+!MESSAGE buffering callback sts4.classpath.hfPWNoQq MyBoard2 true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 19:12:41.136
+!MESSAGE executing callback sts4.classpath.hfPWNoQq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 19:12:41.137
+!MESSAGE executing callback sts4.classpath.hfPWNoQq SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-16 19:12:42.105
+!MESSAGE Launch configuration MyBoardApplicationTests references closed project MyBoard2
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration MyBoardApplicationTests references closed project MyBoard2
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:352)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 124 2019-11-16 19:12:42.105
+!MESSAGE Launch configuration MyBoardApplicationTests references closed project MyBoard2
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-16 19:12:42.106
+!MESSAGE Launch configuration MyBoardApplicationTests references closed project MyBoard2
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration MyBoardApplicationTests references closed project MyBoard2
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:353)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 124 2019-11-16 19:12:42.106
+!MESSAGE Launch configuration MyBoardApplicationTests references closed project MyBoard2
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-16 19:12:42.108
+!MESSAGE Launch configuration MyBoardApplicationTests references closed project MyBoard2
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration MyBoardApplicationTests references closed project MyBoard2
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2151)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:381)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:258)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:228)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:186)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:354)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 124 2019-11-16 19:12:42.109
+!MESSAGE Launch configuration MyBoardApplicationTests references closed project MyBoard2
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 19:20:52.998
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 19:25:41.885
+!MESSAGE Preparing classpath changed notification MyBoard2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 19:25:41.885
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 19:25:41.894
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 19:25:41.895
+!MESSAGE buffering callback sts4.classpath.hfPWNoQq MyBoard2 false 82
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 19:25:41.895
+!MESSAGE executing callback sts4.classpath.hfPWNoQq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 19:25:41.898
+!MESSAGE executing callback sts4.classpath.hfPWNoQq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 19:26:15.592
+!MESSAGE Preparing classpath changed notification MyBoard2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 19:26:15.592
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 19:26:15.592
+!MESSAGE buffering callback sts4.classpath.hfPWNoQq MyBoard2 true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 19:26:15.592
+!MESSAGE executing callback sts4.classpath.hfPWNoQq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 19:26:15.594
+!MESSAGE executing callback sts4.classpath.hfPWNoQq SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-16 19:26:16.557
+!MESSAGE Launch configuration MyBoardApplicationTests references closed project MyBoard2
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration MyBoardApplicationTests references closed project MyBoard2
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:352)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 124 2019-11-16 19:26:16.557
+!MESSAGE Launch configuration MyBoardApplicationTests references closed project MyBoard2
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-16 19:26:16.558
+!MESSAGE Launch configuration MyBoardApplicationTests references closed project MyBoard2
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration MyBoardApplicationTests references closed project MyBoard2
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:353)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 124 2019-11-16 19:26:16.558
+!MESSAGE Launch configuration MyBoardApplicationTests references closed project MyBoard2
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-16 19:26:16.561
+!MESSAGE Launch configuration MyBoardApplicationTests references closed project MyBoard2
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration MyBoardApplicationTests references closed project MyBoard2
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2151)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:381)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:258)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:228)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:186)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:354)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 124 2019-11-16 19:26:16.561
+!MESSAGE Launch configuration MyBoardApplicationTests references closed project MyBoard2
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 19:43:01.159
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 19:43:59.623
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 19:44:31.234
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 19:45:15.871
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 19:45:22.642
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 19:46:11.421
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 19:46:25.411
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 19:47:20.042
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 19:47:59.144
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 19:48:28.225
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 19:48:37.125
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 19:48:59.903
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 19:49:29.417
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 19:49:58.966
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 19:53:24.840
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 19:53:56.100
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 19:55:34.921
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 19:56:11.062
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 19:56:56.986
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 19:57:44.115
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 19:58:28.799
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 19:59:31.892
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 19:59:39.984
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 20:00:23.277
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 20:01:01.804
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 20:02:39.600
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 20:02:46.756
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 20:03:05.294
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 20:03:08.893
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 20:04:17.811
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 20:05:01.854
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 20:05:04.574
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 20:05:23.801
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 20:05:33.856
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 20:06:06.052
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 20:06:33.085
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 20:07:42.186
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 20:10:33.461
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 20:12:34.802
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 20:13:31.806
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 20:14:04.539
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 20:14:21.988
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 20:16:30.470
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 20:17:11.741
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 20:29:33.826
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2019-11-16 20:30:41.184
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 20:36:17.566
+!MESSAGE Preparing classpath changed notification MyBoard2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 20:36:17.566
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 20:36:17.575
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 20:36:17.576
+!MESSAGE buffering callback sts4.classpath.hfPWNoQq MyBoard2 false 82
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 20:36:17.576
+!MESSAGE executing callback sts4.classpath.hfPWNoQq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 20:36:17.579
+!MESSAGE executing callback sts4.classpath.hfPWNoQq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 20:36:46.486
+!MESSAGE Preparing classpath changed notification MyBoard2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 20:36:46.486
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 20:36:46.486
+!MESSAGE buffering callback sts4.classpath.hfPWNoQq MyBoard2 true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 20:36:46.486
+!MESSAGE executing callback sts4.classpath.hfPWNoQq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 20:36:46.488
+!MESSAGE executing callback sts4.classpath.hfPWNoQq SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-16 20:36:47.449
+!MESSAGE Launch configuration MyBoardApplicationTests references closed project MyBoard2
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration MyBoardApplicationTests references closed project MyBoard2
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:352)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 124 2019-11-16 20:36:47.449
+!MESSAGE Launch configuration MyBoardApplicationTests references closed project MyBoard2
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-16 20:36:47.450
+!MESSAGE Launch configuration MyBoardApplicationTests references closed project MyBoard2
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration MyBoardApplicationTests references closed project MyBoard2
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:353)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 124 2019-11-16 20:36:47.451
+!MESSAGE Launch configuration MyBoardApplicationTests references closed project MyBoard2
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-16 20:36:47.453
+!MESSAGE Launch configuration MyBoardApplicationTests references closed project MyBoard2
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration MyBoardApplicationTests references closed project MyBoard2
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2151)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:381)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:258)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:228)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:186)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:354)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 124 2019-11-16 20:36:47.453
+!MESSAGE Launch configuration MyBoardApplicationTests references closed project MyBoard2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 21:00:53.377
+!MESSAGE Preparing classpath changed notification MyBoard2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 21:00:53.377
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 21:00:53.378
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 21:00:53.379
+!MESSAGE buffering callback sts4.classpath.hfPWNoQq MyBoard2 false 82
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 21:00:53.379
+!MESSAGE executing callback sts4.classpath.hfPWNoQq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 21:00:53.383
+!MESSAGE executing callback sts4.classpath.hfPWNoQq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 21:01:54.011
+!MESSAGE Preparing classpath changed notification MyBoard2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 21:01:54.011
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 21:01:54.012
+!MESSAGE buffering callback sts4.classpath.hfPWNoQq MyBoard2 true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 21:01:54.012
+!MESSAGE executing callback sts4.classpath.hfPWNoQq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 21:01:54.013
+!MESSAGE executing callback sts4.classpath.hfPWNoQq SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-16 21:01:54.988
+!MESSAGE Launch configuration MyBoardApplicationTests references closed project MyBoard2
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration MyBoardApplicationTests references closed project MyBoard2
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:352)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 124 2019-11-16 21:01:54.988
+!MESSAGE Launch configuration MyBoardApplicationTests references closed project MyBoard2
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-16 21:01:54.989
+!MESSAGE Launch configuration MyBoardApplicationTests references closed project MyBoard2
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration MyBoardApplicationTests references closed project MyBoard2
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:353)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 124 2019-11-16 21:01:54.989
+!MESSAGE Launch configuration MyBoardApplicationTests references closed project MyBoard2
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-16 21:01:54.992
+!MESSAGE Launch configuration MyBoardApplicationTests references closed project MyBoard2
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration MyBoardApplicationTests references closed project MyBoard2
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2151)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:381)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:258)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:228)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:186)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:354)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 124 2019-11-16 21:01:54.992
+!MESSAGE Launch configuration MyBoardApplicationTests references closed project MyBoard2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 21:53:11.718
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.hfPWNoQq
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 21:53:11.727
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.hfPWNoQq
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 21:53:11.728
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-16 21:53:11.728
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.hfPWNoQq => OK
+!SESSION 2019-11-18 13:08:02.883 -----------------------------------------------
+eclipse.buildId=4.3.2.201908130627-RELEASE
+java.version=12.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/3hagnyeon/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/3hagnyeon/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2019-11-18 13:08:06.677
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.egit.core 1 0 2019-11-18 13:08:06.720
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface 2 0 2019-11-18 13:08:08.653
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-11-18 13:08:08.653
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7615666e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@c49e434,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:28.157
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:28.158
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@fbc1de9[org.springframework.tooling.boot.ls:1.10.0.201908130624(id=618)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:28.160
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:28.198
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.352
+!MESSAGE Boot LS startup time from start to initialized: 3183ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.416
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ceyNjjhRisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.418
+!MESSAGE subscribing to classpath changes: sts4.classpath.ceyNjjhR isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.420
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.426
+!MESSAGE subsribers = {sts4.classpath.ceyNjjhR=Send Classpath Notifications(144)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.427
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.441
+!MESSAGE project TestAPI ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.441
+!MESSAGE project BasicSpring2 ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.442
+!MESSAGE Preparing classpath changed notification TestAPI
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.442
+!MESSAGE project BasicSpring2 SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.442
+!MESSAGE project HelloDB ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.443
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.443
+!MESSAGE project HelloDB SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.443
+!MESSAGE project HelloHomework ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.443
+!MESSAGE project HelloHomework SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.444
+!MESSAGE project Homework ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.444
+!MESSAGE project Homework SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.444
+!MESSAGE project MyBoard ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.445
+!MESSAGE project MyBoard SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.445
+!MESSAGE project MyBoard2 ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.445
+!MESSAGE project MyBoard2 SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.446
+!MESSAGE project MyClass ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.446
+!MESSAGE project MyClass SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.446
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.447
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ceyNjjhR => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.452
+!MESSAGE classpath=85 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.453
+!MESSAGE buffering callback sts4.classpath.ceyNjjhR TestAPI false 85
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.453
+!MESSAGE executing callback sts4.classpath.ceyNjjhR 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:08:31.484
+!MESSAGE executing callback sts4.classpath.ceyNjjhR SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2019-11-18 13:12:33.744
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:12:36.678
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.ceyNjjhR
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:12:36.687
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.ceyNjjhR
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:12:36.687
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:12:36.688
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.ceyNjjhR => OK
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-18 13:12:37.720
+!MESSAGE Launch configuration TestApiApplication references closed project TestAPI
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration TestApiApplication references closed project TestAPI
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:352)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 124 2019-11-18 13:12:37.720
+!MESSAGE Launch configuration TestApiApplication references closed project TestAPI
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-18 13:12:37.723
+!MESSAGE Launch configuration TestApiApplication references closed project TestAPI
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration TestApiApplication references closed project TestAPI
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:353)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 124 2019-11-18 13:12:37.723
+!MESSAGE Launch configuration TestApiApplication references closed project TestAPI
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-18 13:12:37.729
+!MESSAGE Launch configuration TestApiApplication references closed project TestAPI
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration TestApiApplication references closed project TestAPI
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2151)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:381)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:258)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:228)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:186)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:354)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 124 2019-11-18 13:12:37.729
+!MESSAGE Launch configuration TestApiApplication references closed project TestAPI
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:50.387
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:50.395
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@fbc1de9[org.springframework.tooling.boot.ls:1.10.0.201908130624(id=618)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:50.395
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.749
+!MESSAGE Boot LS startup time from start to initialized: 1352ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.782
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.WXxFYgIRisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.783
+!MESSAGE subscribing to classpath changes: sts4.classpath.WXxFYgIR isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.783
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.783
+!MESSAGE subsribers = {sts4.classpath.WXxFYgIR=Send Classpath Notifications(233)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.783
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.784
+!MESSAGE project MyBoard2 ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.784
+!MESSAGE project BasicSpring2 ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.785
+!MESSAGE Preparing classpath changed notification MyBoard2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.785
+!MESSAGE project BasicSpring2 SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.785
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.785
+!MESSAGE project HelloDB ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.785
+!MESSAGE project HelloDB SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.786
+!MESSAGE project HelloHomework ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.786
+!MESSAGE project HelloHomework SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.786
+!MESSAGE project Homework ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.786
+!MESSAGE project Homework SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.787
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.787
+!MESSAGE project MyBoard ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.787
+!MESSAGE project MyBoard SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.787
+!MESSAGE project MyClass ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.788
+!MESSAGE buffering callback sts4.classpath.WXxFYgIR MyBoard2 false 82
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.788
+!MESSAGE project MyClass SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.788
+!MESSAGE executing callback sts4.classpath.WXxFYgIR 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.788
+!MESSAGE project TestAPI ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.788
+!MESSAGE project TestAPI SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.789
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.789
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.WXxFYgIR => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 13:15:51.811
+!MESSAGE executing callback sts4.classpath.WXxFYgIR SUCCESS [done]
+
+!ENTRY org.eclipse.core.jobs 4 2 2019-11-18 13:25:54.220
+!MESSAGE An internal error occurred during: "Launching New_configuration".
+!STACK 0
+java.lang.NullPointerException
+	at org.springframework.ide.eclipse.boot.launch.AbstractBootLaunchConfigurationDelegate.configureClassPathProviders(AbstractBootLaunchConfigurationDelegate.java:377)
+	at org.springframework.ide.eclipse.boot.launch.AbstractBootLaunchConfigurationDelegate.launch(AbstractBootLaunchConfigurationDelegate.java:359)
+	at org.springframework.ide.eclipse.boot.launch.BootLaunchConfigurationDelegate.launch(BootLaunchConfigurationDelegate.java:152)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:862)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:720)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1020)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$2.run(DebugUIPlugin.java:1234)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 14:50:38.767
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.WXxFYgIR
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 14:50:38.767
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.WXxFYgIR
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 14:50:38.768
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-18 14:50:38.768
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.WXxFYgIR => OK
+!SESSION 2019-11-19 16:06:44.872 -----------------------------------------------
+eclipse.buildId=4.3.2.201908130627-RELEASE
+java.version=12.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/3hagnyeon/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/3hagnyeon/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2019-11-19 16:06:48.610
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.egit.core 1 0 2019-11-19 16:06:48.639
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface 2 0 2019-11-19 16:06:50.417
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-11-19 16:06:50.417
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@d28a235,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@43e30f15,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.ui 2 2 2019-11-19 16:09:07.009
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
